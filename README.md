@@ -9,7 +9,7 @@ Maven is a build manager for Java projects. It helps you to install Java librari
 Install Maven on:
 * Mac: as simple as `$ brew install maven` (in case you don't know what is [Homebrew](http://brew.sh/), you should use it now).
 * Ubuntu: `$ sudo apt-get install maven`
-* Windows: refer to this [guide](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
+* Windows: refer to [this guide](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
 
 ## Import project to Eclipse IDE
 After installing Maven, you should be able to Import the project into the Eclipse workspace by choosing "Import" -> "Maven" -> "Existing Maven project". Select the path to the `pom.xml` file of your project and click "Finish". The Eclipse IDE should be able to automatically install project dependencies if Maven is properly installed.
